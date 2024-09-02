@@ -22,6 +22,14 @@
   - **TXTFileAnalyzer**: A class that extends `FileAnalyzer` and implements `IFileAnalysis` for analyzing text files.
   - **CSVFileAnalyzer**: A class that extends `FileAnalyzer` and implements `IFileAnalysis` for analyzing CSV files.
   - **IFileAnalysis**: An interface that defines the `AnalyzeFiles` method for file analysis classes.
+ 
+### Technologies
+
+- **Programming Language**: C#
+- **Development Environment**: Visual Studio
+## UML Diagram
+
+![UML Diagram](FileAnalyzerUML.png)
 
 ## Getting Started
 
