@@ -30,10 +30,20 @@
                     Console.WriteLine($"Words Count Is : {result.wordsCount}\n");
                     Console.WriteLine($"characters Count Is : {result.charactersCount}\n");
                     Console.WriteLine($"Lines Count Is : {result.linesCount}\n");
-                    Console.WriteLine("-------------------------------------------------");
+                    
 
+                }else if (item.IsCSVFile())
+                {
+                    fileAnalysis = new CSVFileAnalyzer();
+                    fileAnalysis.AnalyzeFiles(item);
+                    var results = ((FileAnalyzer)fileAnalysis).getAnalysisResults();
+                    Console.WriteLine($"File Name Is : {item.Name} \n");
+                    Console.WriteLine($"Lines Count Is : {results.linesCount}\n");
+               
                 }
-                
+                Console.WriteLine("-------------------------------------------------");
+
+
             }
         }
     }
