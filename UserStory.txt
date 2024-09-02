@@ -1,0 +1,22 @@
+1-As a user , i want file analyzer to count the total number of words in each txt file.
+2- As a user , i want file analyzer to count the total number of characters in each txt file.
+3-As a user , i want file analyzer to count the total number of Lines in each txt file.
+4-As a user , i want file analyzer to count the total number of fields in each csv file.
+
+*classes : fileAnalyzer, total number of words, txt files,user,total number of characters,
+total number of lines,total number of fields,csv file
+
+*functions : count
+
+--> wordNumber,characterNumber,LineNumber,FieldsNumber all results from analyzing the file
+so all in one class (analysis results)-- they have no bahaviours
+
+analysisResults,fileAnalyzer,txtFileAnalyzer,csvFileAnalyzer --> classes
+
+1-abstraction : analysis behaviours is interface as interface behaviour in most cases is verb
+الانترفيس هتفرض عليهم انهم يعملو اناليسيز للفايلالات دي 
+
+IFileAbalysis Interface --> have AnalyzeFile Method(File)
+result found in file analyzer so txtfile & csv file inherit from it
+
+class can inherit many interface or interface and class but cant inherit many abstract classes
