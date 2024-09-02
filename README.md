@@ -1,6 +1,6 @@
-# TextDataAnalyzer
+# FileAnalyzer
 
-**TextDataAnalyzer** is a console application designed to analyze text files and CSV files within a specified directory. The program calculates and displays various metrics such as word count, character count, line count, and field count for CSV files. This tool is useful for quickly gathering information from text-based files.
+**FileAnalyzer** is a console application designed to analyze text files and CSV files within a specified directory. The program calculates and displays various metrics such as word count, character count, line count, and field count for CSV files. This tool is useful for quickly gathering information from text-based files.
 
 ## Features
 
