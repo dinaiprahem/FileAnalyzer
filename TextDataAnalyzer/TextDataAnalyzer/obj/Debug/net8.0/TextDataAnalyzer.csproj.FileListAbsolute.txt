@@ -1,0 +1,15 @@
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.exe
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.deps.json
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.runtimeconfig.json
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.dll
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.pdb
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.AssemblyInfoInputs.cache
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.AssemblyInfo.cs
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.csproj.CoreCompileInputs.cache
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.sourcelink.json
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.dll
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\refint\TextDataAnalyzer.dll
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.pdb
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.genruntimeconfig.cache
+E:\BackEndCourse\c#\TextData_Analyzer\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\ref\TextDataAnalyzer.dll

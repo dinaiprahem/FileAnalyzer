@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace TextDataAnalyzer
 {
-    internal class FileAnalyzer
+    public class FileAnalyzer
     {
+       private AnalysisResults _results ;
+        public void setAnalysisResults(AnalysisResults results)
+        {
+            _results = results;
+        }
+        public AnalysisResults getAnalysisResults()
+        {
+            return _results;
+        }
+
+
+
     }
 }

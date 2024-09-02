@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TextDataAnalyzer
 {
-    internal class CSVFileAnalyzer
+    public class CSVFileAnalyzer
     {
     }
 }

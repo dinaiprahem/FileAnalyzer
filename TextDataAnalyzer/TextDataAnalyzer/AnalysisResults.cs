@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TextDataAnalyzer
 {
-    internal class AnalysisResults
+    public struct AnalysisResults
     {
+        public int wordsCount;
+        public int charactersCount;
+        public int linesCount;
+        public int fieldsCount;
     }
 }

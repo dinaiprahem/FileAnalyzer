@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace TextDataAnalyzer
 {
-    internal class TXTFileAnalyzer
+    public class TXTFileAnalyzer : FileAnalyzer,IFileAnalysis
     {
+        public void AnalyzeFiles(FileInfo fileInfo)
+        {
+          string fileString= File.ReadAllText(fileInfo.FullName);//read all text take string full path
+
+            AnalysisResults results=new AnalysisResults();
+            var words = fileString.Split(new char[] { ' ', '\n', '\r', ',' });
+
+            results.wordsCount= words.Length;
+            results.charactersCount = fileString.Length;
+            var lines= fileString.Split(new char[] { '\n'});
+            results.linesCount = lines.Length;
+            setAnalysisResults(results);
+        }
+
     }
 }

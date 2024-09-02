@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace TextDataAnalyzer
 {
-    internal interface IFileAnalysis
+    public interface IFileAnalysis
     {
+         void AnalyzeFiles(FileInfo fileInfo);
+        
     }
 }
